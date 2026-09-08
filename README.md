@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" width="180" alt="Milesden">
+<a href="https://github.com/Milesden">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111111,100:2b2b2b&text=MILESDEN&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Python%20%7C%20AI%2FML%20%7C%20Backend&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Milesden">
+</a>
 
-# Milesden
+<img src="./assets/profile.jpg" width="150" alt="Milesden">
 
-### `Python Developer` · `AI/ML Enthusiast` · `Backend`
+# MILESDEN
+
+### `Python Developer` · `AI / ML` · `Backend`
 
 <p>
-  <a href="https://github.com/Milesden">
-    <img src="https://img.shields.io/badge/GitHub-Milesden-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
   <a href="https://github.com/Milesden?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github" alt="Repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  </a>
+  <a href="https://github.com/Milesden">
+    <img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Profile">
   </a>
 </p>
 
@@ -19,99 +23,97 @@
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
-- 🐍 Building projects with **Python**
-- 🤖 Interested in **AI / Machine Learning**
-- 🤝 Creating **Telegram bots** and backend applications
-- ⚙️ Working with **C++, C# and Java**
-- 🐳 Exploring **Docker, CI/CD and cloud deployment**
-- ☁️ Familiar with **Render, Kubernetes, Terraform and Ansible**
-- 📊 Working with **Excel / Power Query** and automation
-- 🎯 Currently focused on becoming a stronger **ML / Backend developer**
+```text
+Milesden
 
-> *Build things. Break things. Learn things. Repeat.*
+Python developer focused on backend, automation and AI/ML.
+I like building things that actually work — from Telegram bots
+to deployable applications and infrastructure.
+
+Currently learning, experimenting and shipping.
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I do
 
-### Languages
+- 🐍 **Python** — bots, automation, backend
+- 🤖 **AI / ML** — learning and building projects
+- 🎮 **Game logic** — card-game / Telegram projects
+- 🧩 **Backend** — APIs and application architecture
+- 🐳 **DevOps** — Docker, CI/CD, cloud deployment
+- ☁️ **Infrastructure** — Kubernetes, Terraform, Ansible
+- ⚙️ **Other languages** — C++, C#, Java
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java" alt="Languages">
-</p>
+---
 
-### Backend & Bots
+## 🧰 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,bots" alt="Backend">
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,linux,git" alt="DevOps">
-</p>
-
-### Data / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="ML">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,git,github,docker,kubernetes,terraform,ansible,linux&perline=6" alt="Tech stack">
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎴 Durak Bot
+<table>
+<tr>
+<td width="50%">
 
-**Telegram card game bot** built with Python and Aiogram.
+### 🎴 `durak_bot`
 
+Telegram card game built with **Python + Aiogram**.
+
+**Features**
 - Multiplayer game logic
-- Telegram inline / callback interactions
+- Callback / inline interactions
 - Custom keyboards
+- Telegram Bot API
 - Deployment-ready structure
 
-[![View project](https://img.shields.io/badge/View%20Project-durak__bot-2ea44f?style=for-the-badge&logo=github)](https://github.com/Milesden/durak_bot)
+<a href="https://github.com/Milesden/durak_bot">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View durak_bot">
+</a>
 
----
+</td>
+<td width="50%">
 
-### 💬 Telegram Dating Bot
+### 💬 `telegram dating bot`
 
-A Telegram bot concept with interactive invitations, buttons, media and conversation flows.
+Interactive Telegram bot concept with:
+
+- Invite flow
+- Yes / No buttons
+- Media & animations
+- Conversation states
+- Aiogram handlers
 
 **Stack:** Python · Aiogram · Telegram Bot API
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Milesden&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Milesden&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="GitHub stats">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milesden&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milesden&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages">
 
 </div>
 
----
-
-## 🔥 Contribution Streak
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Milesden&hide_border=true&theme=transparent" alt="GitHub streak">
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Milesden&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies">
+<img src="https://streak-stats.demolab.com?user=Milesden&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
 
 </div>
 
@@ -121,40 +123,34 @@ A Telegram bot concept with interactive invitations, buttons, media and conversa
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Milesden/Milesden/output/github-contribution-grid-snake.svg" alt="Contribution snake">
+<img src="https://raw.githubusercontent.com/Milesden/Milesden/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
 
 </div>
 
 ---
 
-## 📈 Activity
+## 🏆 Achievements
 
 <div align="center">
 
-[![Milesden's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Milesden&hide_border=true&area=true&custom_title=Milesden%27s%20Contribution%20Graph)](https://github.com/Milesden)
+<img src="https://github-profile-trophy.vercel.app/?username=Milesden&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies">
 
 </div>
 
 ---
 
-## 💭 Quote
+## 📈 Contribution Graph
 
-<div align="center">
-
-> **"Code. Create. Learn. Repeat."**
-
-</div>
+[![Milesden's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Milesden&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Milesden%27s%20Contribution%20Graph)](https://github.com/Milesden)
 
 ---
 
 <div align="center">
 
-### Thanks for visiting 👋
-
-**If you like something here, feel free to star a repository ⭐**
+### `BUILD • BREAK • LEARN • REPEAT`
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Milesden&style=flat-square&color=grey" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Milesden&style=for-the-badge&color=181717&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
