@@ -11,7 +11,11 @@ permissions:
 jobs:
   snake:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -20,9 +24,20 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish snake
+        run: |
+          cp -r dist /tmp/snake-dist
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin output || true
+          git checkout --orphan output
+          git rm -rf . || true
+
+          cp -r /tmp/snake-dist/. .
+          touch .nojekyll
+
+          git add .
+          git commit -m "Generate contribution snake"
+          git push --force origin output
