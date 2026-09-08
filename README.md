@@ -103,9 +103,9 @@ Interactive Telegram bot concept with:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Milesden&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="GitHub stats">
+<img height="165" src="./profile/stats.svg" alt="GitHub stats">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milesden&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages">
+<img height="165" src="./profile/top-langs.svg" alt="Top languages">
 
 </div>
 
@@ -113,7 +113,7 @@ Interactive Telegram bot concept with:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Milesden&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
+<img src="./profile/streak.svg" alt="GitHub streak">
 
 </div>
 
@@ -133,7 +133,7 @@ Interactive Telegram bot concept with:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Milesden&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies">
+<img src="./profile/trophies.svg" alt="GitHub trophies">
 
 </div>
 
@@ -141,7 +141,7 @@ Interactive Telegram bot concept with:
 
 ## 📈 Contribution Graph
 
-[![Milesden's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Milesden&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Milesden%27s%20Contribution%20Graph)](https://github.com/Milesden)
+<img src="./profile/activity.svg" alt="Milesden's activity graph">
 
 ---
 
